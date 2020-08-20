@@ -1,2 +1,6 @@
 poda potta
+<<<<<<< HEAD
 this is sushanth
+=======
+hai potta
+>>>>>>> feature
