@@ -1,6 +1,8 @@
-poda potta
-<<<<<<< HEAD
+poda pottag
 this is sushanth
-=======
+
 hai potta
->>>>>>> feature
+sush file  modified
+sush modified
+
+
